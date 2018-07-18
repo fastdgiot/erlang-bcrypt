@@ -26,3 +26,5 @@ logs/*
 
 ## Temporary script for compiling the port
 build_port.sh
+.rebar/
+compile_commands.json
