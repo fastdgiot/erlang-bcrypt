@@ -28,3 +28,5 @@ logs/*
 build_port.sh
 .rebar/
 compile_commands.json
+.rebar3/
+rebar.lock
